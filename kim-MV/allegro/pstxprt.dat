@@ -1,0 +1,200 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Mar-12-2024 at 09:18:38 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='KIM';
+ POST_TIME='Sep  3 2012 03:32:19';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ BT1 'BATTERY_JUMPER2_+9V':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS375@DISCRETE.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins375@discrete.\battery.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins375@discrete.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP POL_CAP196_33UF':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS334@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins334@discrete.\cap pol.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins334@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP POL_CAP196_33UF':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS350@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins350@discrete.\cap pol.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins350@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_CAP196_LED':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS163@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins163@discrete.\led.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins163@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED2 'LED_CAP196_LED':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS179@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins179@discrete.\led.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins179@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED3 'LED_CAP196_LED':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS195@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins195@discrete.\led.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins195@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED4 'LED_CAP196_LED':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS211@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins211@discrete.\led.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins211@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN ECB_TO92_2SC1815':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS1530@TRANSISTOR.NPN ECB.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins1530@transistor.\npn ecb.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins1530@transistor.\npn ecb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'NPN ECB_TO92_2SC1815':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS1554@TRANSISTOR.NPN ECB.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins1554@transistor.\npn ecb.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins1554@transistor.\npn ecb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'NPN ECB_TO92_2SC1815':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS1587@TRANSISTOR.NPN ECB.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins1587@transistor.\npn ecb.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins1587@transistor.\npn ecb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'NPN ECB_TO92_2SC1815':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS1621@TRANSISTOR.NPN ECB.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins1621@transistor.\npn ecb.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins1621@transistor.\npn ecb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RES400_470':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS26@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins26@discrete.\resistor.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins26@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RES400_470':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS42@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins42@discrete.\resistor.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins42@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RES400_33K':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS58@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins58@discrete.\resistor.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins58@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RES400_33K':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS74@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins74@discrete.\resistor.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins74@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_RES400_470':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS90@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins90@discrete.\resistor.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins90@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RES400_470':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS106@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins106@discrete.\resistor.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins106@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS122@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins122@discrete.\resistor.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins122@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@KIM.SCHEMATIC1(SCH_1):INS138@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@kim.schematic1(sch_1):ins138@discrete.\resistor.normal\(chips)',
+ P_PATH='@kim.schematic1(sch_1):page1_ins138@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

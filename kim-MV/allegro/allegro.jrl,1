@@ -1,0 +1,21 @@
+\t (00:04:23) allegro 16.6 B033 (v16-6-111A) Windows 32
+\t (00:04:23)     Journal start - Tue Mar 12 09:23:23 2024
+\t (00:04:23)         Host=513-PC01 User=user Pid=13140 CPUs=12
+\t (00:04:23) 
+\t (00:05:14) Opening existing design...
+\d (00:05:14) Database opened: C:/KIM-MV/allegro/KIM.brd
+\i (00:05:14) trapsize 15274
+\i (00:05:14) trapsize 14873
+\i (00:05:14) trapsize 15343
+\i (00:05:14) trapsize 15770
+\i (00:05:15) trapsize 12555
+\i (00:05:15) trapsize 15770
+\i (00:05:15) trapsize 12555
+\i (00:05:15) trapsize 19749
+\i (00:05:16) generaledit 
+\i (00:05:18) trapsize 13699
+\i (00:05:34) open 
+\i (00:05:57) fillin "KIM.brd"
+\t (00:05:57) Opening existing design...
+\i (00:05:57) trapsize 13699
+\t (00:05:57)     Journal end - Tue Mar 12 09:24:57 2024
